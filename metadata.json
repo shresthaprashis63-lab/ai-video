@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Studio",
+  "description": "Professional AI video generation studio with script-to-scenes breakdown, reference frame guidance, voiceover synchronization, multi-track timeline editing, and high-quality video rendering.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
